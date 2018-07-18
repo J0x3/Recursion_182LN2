@@ -1,5 +1,4 @@
 class Fibonacci {
-    //calculate fibonacci
     int recursiveFib(int n) {
         if (n <= 1)
             return n;

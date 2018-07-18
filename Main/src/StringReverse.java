@@ -1,7 +1,6 @@
 import java.lang.String;
 
 class StringReverse {
-    //reverse strings
     String recursiveReverse(String str) {
         if ((null == str) || (str.length() <= 1)) {
             return str;
