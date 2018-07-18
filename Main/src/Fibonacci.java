@@ -8,7 +8,7 @@ class Fibonacci {
     int iterativeFib(int n) {
         if (n <= 1)
             return n;
-
+        //else
         int fibNumber = 0; //default zero
         int temp1 = 1;
         int temp2 = 1;
